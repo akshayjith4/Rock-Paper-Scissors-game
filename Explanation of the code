@@ -1,0 +1,32 @@
+Importing the random Module:
+
+The script starts by importing the random module, which is used later to generate random numbers for the computer's choice.
+Defining Functions:
+
+The script defines several functions, each responsible for a specific aspect of the game:
+print_instructions(): Prints the rules of the game to the console.
+get_user_choice(): Prompts the user to enter their choice (Rock, Paper, or Scissors) and validates the input.
+get_computer_choice(): Generates a random choice (Rock, Paper, or Scissors) for the computer.
+determine_winner(user_choice, comp_choice): Determines the winner based on the game rules, comparing the user's and computer's choices.
+print_result(winner): Prints the result of the game (draw, user wins, or computer wins) to the console.
+play_again(): Asks the user if they want to play again and returns True or False based on their input.
+Main Function (main()):
+
+The main() function serves as the entry point of the script.
+It calls print_instructions() to display the rules of the game.
+Then, it enters a while loop that continues until the user decides not to play again.
+Inside the loop, it:
+Calls get_user_choice() to prompt the user for their choice.
+Calls get_computer_choice() to randomly generate the computer's choice.
+Prints the choices made by both the user and the computer.
+Calls determine_winner() to find out who won the game.
+Prints the result using print_result().
+Asks the user if they want to play again using play_again(). If the user chooses not to play again, the loop breaks.
+Running the Script:
+
+At the end of the script, main() is called if the script is executed directly (__name__ == "__main__").
+This starts the execution of the game, allowing the user to play against the computer.
+Game Flow:
+
+The game flow involves the user making a choice, the computer generating a random choice, and then determining the winner based on the game rules.
+The process continues until the user decides not to play again.
