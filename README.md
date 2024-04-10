@@ -30,13 +30,8 @@ Follow the on-screen instructions to play the game.
 Contributing:
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-License:
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgments:
-This script is inspired by the classic Rock, Paper, Scissors game and aims to provide a simple yet enjoyable gaming experience. Special thanks to the Python community for their contributions and support.
 
 Author:
-[Your Name] - Your GitHub Profile
+Akshayjith p s
 
 Feel free to customize the README with additional information or features specific to your implementation.
