@@ -2,7 +2,7 @@ Rock, Paper, Scissors Game
 
 This Python script allows you to play the classic game of Rock, Paper, Scissors against the computer. It provides a simple and enjoyable way to engage in a quick hand game, either to make decisions or for recreational purposes.
 
-How to Play:
+How to Play :
 
 Run the Python script.
 Follow the on-screen instructions to choose Rock, Paper, or Scissors.
